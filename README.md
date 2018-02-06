@@ -11,3 +11,4 @@ Dependency:
 
 	- [JKI State Machine](https://github.com/JKISoftware/JKI-State-Machine)
 	- OpenG Libraries
+I'm first time in Gitgub and I want to learn TDMS viewer through LabView.
